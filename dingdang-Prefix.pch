@@ -1,0 +1,18 @@
+//
+//  dingdang.pch
+//  dingdang
+//
+//  Created by 阮 沧晖 on 15/6/23.
+//  Copyright (c) 2015年 阮 沧晖. All rights reserved.
+//
+
+#ifndef dingdang_dingdang_pch
+#define dingdang_dingdang_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import <UIKit/UIKit.h>
+
+#endif

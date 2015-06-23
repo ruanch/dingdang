@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A0F60A4C-4277-40AA-92B5-32E063308079</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6f37b222-44b2-4cd5-84ac-f3e22991a9da++3948</key>
+		<string>https://192.168.49.75:18080/svn/iFlowerpot/ios/trunk/platforms/ios/iflower/Classes/ext/ZYQAssetPickerController</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6f37b222-44b2-4cd5-84ac-f3e22991a9da++3948</key>
+		<string>ZYQAssetPickerController/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>6f37b222-44b2-4cd5-84ac-f3e22991a9da++3948</key>
+		<string>https://192.168.49.75:18080/svn/iFlowerpot</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.49.75:18080/svn/iFlowerpot/ios/trunk/platforms/ios/iflower/Classes/ext/ZYQAssetPickerController</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6f37b222-44b2-4cd5-84ac-f3e22991a9da++3948</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6f37b222-44b2-4cd5-84ac-f3e22991a9da++3948</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZYQAssetPickerController</string>
+		</dict>
+	</array>
+</dict>
+</plist>
